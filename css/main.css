@@ -1,0 +1,142 @@
+@media only screen and (max-width: 2000px) and (min-width: 1400px)  {
+.max_height{
+	font-size: 1.3em
+}
+.max_height2{
+	padding-top: 7%;
+	font-size: 1.5em
+}
+}
+
+@media only screen and (max-width: 1300px) and (min-width: 800px)  {
+.media_q1{
+	font-size: 0.7em
+}
+.dropdown-toggle::after{
+	    margin-left: 8.255em;
+}
+}
+
+@media only screen and (max-width: 1500px) and (min-width: 800px)  {
+.dropdown-toggle::after{
+	    margin-left: 8.255em;
+}
+}
+@media only screen and (max-width: 1300px) and (min-width: 500px)  {
+.media_q1{
+	font-size: 0.7em
+}
+
+}
+
+
+@media only screen and (max-width: 420px) and (min-width: 200px)  {
+.media_q1{
+	font-size: 0.5em
+}
+.mobile{
+	font-size: .7em;
+}
+
+}
+
+
+
+
+html{
+	font-size: 0.98em;
+	overflow-x:hidden 
+}
+body{
+	background: #1f1f1f;
+	overflow-x:hidden 	
+}
+.bcg_img{
+	background: url(../img/1.jpg) center center no-repeat;
+	background-size: cover;
+	min-height: 30em;
+}
+
+.bcg_img_1{
+	background: url(../img/1.jpg) center center no-repeat;
+	background-size: cover;
+	min-height: 15em;
+}
+.searchicon{
+	color: gray;
+}
+.searchicon:hover{
+	color: white;
+	text-decoration: none;
+}
+.searchicon:active{
+	color: #95d343;
+}
+.h-95{
+	height: 95%;
+}
+.link{
+	text-decoration: underline;
+	color: lightgray;
+}
+.brown{
+	background: #96733d;
+	height: auto;
+}
+.red{
+	background: #e31e25;
+	height: auto;
+}
+.position{
+	color: white;
+	position: absolute;
+	z-index: 2;
+	padding: 5%;
+}
+.head{
+	font-size: 2em;
+}
+.icons{
+	color: gray;
+}
+.icons:hover{
+	color: #95d343;
+}
+.link{
+	color: white;
+	text-decoration: none;
+}
+.link:hover{
+	color: lightgray;
+	text-decoration: underline;
+}
+.link:active{
+	color: gray;
+	text-decoration: none;
+}
+
+.finclub:hover{
+	border:1px solid #95d343;
+}
+.cars{
+	background: url(../img/IMG_0982.jpg);
+	-webkit-background-size: cover;
+	background-size: cover;
+	transition: 1s;
+
+}
+
+.cars1{
+	background: url(../img/IMG_1604.jpg);
+	-webkit-background-size: cover;
+	background-size: cover;
+	transition: 1s;
+
+}
+.cars2{
+	background: url(../img/IMG_1435.jpg);
+	-webkit-background-size: cover;
+	background-size: cover;
+	transition: 1s;
+
+}
